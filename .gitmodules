@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "rcollectadhd"]
 	path = rcollectadhd
-	url = https://github.com/cran/rcollectadhd
+	url = https://github.com/jmnolan9/rcollectadhd
